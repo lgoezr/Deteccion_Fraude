@@ -26,5 +26,4 @@ Este es un sistema de detección de fraude en órdenes de e-commerce con Machine
 - scipy (prueba Chi-cuadrado)
 - matplotlib, seaborn
 - ydata-profiling
- 
-> El dataset original (`ecommerce_logistics.csv`) no está incluido en el repositorio por tamaño. Descárgalo desde [Kaggle](https://www.kaggle.com/datasets/deeplumiere/e-commerce-customer-behavior-and-logistics-dataset) y colócalo en la carpeta `data/`.
+
