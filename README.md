@@ -16,7 +16,6 @@ Este es un sistema de detección de fraude en órdenes de e-commerce con Machine
 4. **Comparación experimental controlada:** un dataset "sucio" (limpieza mínima) frente a un dataset "limpio" (outliers tratados, inconsistencias corregidas, codificación justificada por tipo de variable, selección de variables con VIF y prueba Chi-cuadrado, y escalamiento log1p + RobustScaler).
 5. **Modelado:** Regresión Logística (`class_weight="balanced"`) sobre ambos escenarios, más un Random Forest sobre el dataset limpio.
 6. **Evaluación:** métricas apropiadas para clases desbalanceadas — Precision, Recall, F1, ROC-AUC y PR-AUC — en lugar de depender solo de accuracy.
-## Resultados clave
  
 ## Tecnologías utilizadas
  
